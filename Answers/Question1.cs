@@ -31,7 +31,6 @@ namespace C_Sharp_Challenge_Skeleton.Answers
                         }
                 }
             }
-            //TODO: Please work out the solution;
             return bestVal;
 
             int ToValue(int[] a)
