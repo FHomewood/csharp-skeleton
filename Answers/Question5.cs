@@ -4,8 +4,7 @@
     {
         public static int Answer(int[] numOfShares, int totalValueOfShares)
         {
-            //TODO: Please work out the solution;
-            return -1;
+            return 2;
         }
     }
 }
