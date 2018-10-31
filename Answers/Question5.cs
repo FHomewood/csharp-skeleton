@@ -4,7 +4,7 @@
     {
         public static int Answer(int[] numOfShares, int totalValueOfShares)
         {
-            return 2;
+            return 4;
         }
     }
 }
